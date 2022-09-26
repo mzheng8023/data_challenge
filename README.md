@@ -1,6 +1,4 @@
 ## Download and unzip file. CD to Project Directory.
-`cd DSC_C1308917`
-
 ## Download Transactions Data to Project Directory
 `Link to data found here: https://github.com/CapitalOneRecruiting/DS`
 
